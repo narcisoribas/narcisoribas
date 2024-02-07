@@ -1,4 +1,4 @@
-### Olá eu sou o Narciso Ribas 🖐🏿🤝🏿
+### Olá! eu sou o Narciso Ribas 🖐🏿🤝🏿
 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://meupotifolio.com) 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/narciso-ribas-b8692219a) 
